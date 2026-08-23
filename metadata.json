@@ -1,0 +1,8 @@
+{
+  "name": "Club de la Diversión",
+  "description": "Sitio de reservas para espacio de eventos Club de la Diversión",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
